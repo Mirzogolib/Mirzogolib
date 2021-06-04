@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## 📫 How to reach me: mirzogolib96@gmail.com
-[![Mitzogolib's github ranking](https://github-readme-ranking.vercel.app/api/rank?username=Mirzogolib&country_code=uzbekistan)](https://github.com/Muhammadsher/github-readme-ranking)
+[![Mitzogolib's github ranking](https://github-readme-ranking.vercel.app/api/rank?username=Mirzogolib&country_code=uzbekistan&show_private=true)](https://github.com/Muhammadsher/github-readme-ranking)
 
 <!--
 **Mirzogolib/Mirzogolib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
