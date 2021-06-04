@@ -1,5 +1,6 @@
 ### Hi there 👋
 ## 📫 How to reach me: mirzogolib96@gmail.com
+💬 Ask me about Android, Flutter
 <!--
 **Mirzogolib/Mirzogolib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
