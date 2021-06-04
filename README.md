@@ -1,5 +1,5 @@
-### Hi there 👋
-## 📫 How to reach me: mirzogolib96@gmail.com
+## Hi there 👋
+### 📫 How to reach me: mirzogolib96@gmail.com
 [![Mitzogolib's github ranking](https://github-readme-ranking.vercel.app/api/rank?username=Mirzogolib&country_code=uzbekistan&show_private=true)](https://github.com/Muhammadsher/github-readme-ranking)
 
 <!--
