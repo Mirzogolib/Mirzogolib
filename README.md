@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### 📫 How to reach me: mirzogolib96@gmail.com
-### 👨🏻‍💻LinkedIn profile: linkedin.com/in/mirzo-golib-suvonberdiev
+### 👨🏻‍💻LinkedIn profile: https://www.linkedin.com/in/mirzo-golib-suvonberdiev/
 <!-- [![Mitzogolib's github ranking](https://github-readme-ranking.vercel.app/api/rank?username=Mirzogolib&country_code=uzbekistan&show_private=true)](https://github.com/Muhammadsher/github-readme-ranking) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mirzogolib&hide=java&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
